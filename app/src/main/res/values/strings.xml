@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="best_time_15s">Best Time :15s</string>
+    <string name="minesweeper">Minesweeper</string>
+    <string name="saved_high_score_key">highscore</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="last_game_time_40s">Last Game time:40s</string>
+    <string name="easy">Easy</string>
+    <string name="last_time">lastTime</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="or">Or</string>
+    <string name="make_a_custom_board">Make A Custom Board</string>
+    <string name="start">START</string>
+    <string name="mines">Mines</string>
+    <string name="time">Time</string>
+    <string name="restart">RESTART</string>
+    <string name="_10">10</string>
+    <string name="enter_mines">Enter Mines*</string>
+
+</resources>
